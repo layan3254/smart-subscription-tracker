@@ -6,6 +6,9 @@ Smart Subscription Tracker is a simple web application that helps users manage a
 
 Many people subscribe to multiple services like Netflix, Spotify, or online learning platforms and sometimes forget the renewal dates, which may lead to automatic payments without noticing. This application solves this problem by allowing users to add their subscriptions, set renewal dates, and store payment information securely (with masked card numbers).
 
+The Link:
+https://c-users-nxxno-desktop-appapp-lsff29elmtulm8tac2wq9d.streamlit.app/
+
 ## How It Works
 When using the application, the user first chooses a subscription category such as entertainment, health, or software. Then they select a specific service from a predefined list. After that, the user enters the renewal date and payment information.
 
